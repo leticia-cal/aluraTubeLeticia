@@ -6,19 +6,19 @@
     "playlists": {
         "jogos": [
             {
-                "title": "Frostpunk - Neve e Steak tartare",
-                "url": "https://www.youtube.com/watch?v=QsqatJxAUtk",
-                "thumb": "https://img.youtube.com/vi/QsqatJxAUtk/hqdefault.jpg"
+                "title": "LEON É MELHOR DO QUE OS INSCRITOS?! - FALL GUYS",
+                "url": "https://www.youtube.com/watch?v=b0Zl2O9Selw&ab",
+                "thumb": "https://img.youtube.com/vi/fzpudxMNcfo/hqdefault.jpg"
             },
             {
-                "title": "Frostpunk - Neve e Steak tartare",
-                "url": "https://www.youtube.com/watch?v=O8jtAyPuhNg",
-                "thumb": "https://img.youtube.com/vi/O8jtAyPuhNg/hqdefault.jpg"
+                "title": "JOGANDO O INÍCIO DO NOVO GOD OF WAR!",
+                "url": "https://www.youtube.com/watch?v=wx8ode4JY7c&ab",
+                "thumb": "https://img.youtube.com/vi/wx8ode4JY7c/hqdefault.jpg"
             },
             {
-                "title": "Gas Station Simulator - 8 dias sem dormir!",
+                "title": "SOBREVIVENDO NO FIM DO MUNDO | Inside #2",
                 "url": "https://www.youtube.com/watch?v=R1d0DyRDG_Q",
-                "thumb": "https://img.youtube.com/vi/R1d0DyRDG_Q/hqdefault.jpg"
+                "thumb": "https://img.youtube.com/vi/eYo9F0hq3OQ/hqdefault.jpg"
             },
             {
                 "title": "Gartic Phone - Não assista a esse NerdPlayer!",
@@ -26,19 +26,19 @@
                 "thumb": "https://img.youtube.com/vi/0oJQUs5oRiM/hqdefault.jpg"
             },
             {
-                "title": "Netdecking Estraga o Magic?",
-                "url": "https://www.youtube.com/watch?v=dXihyhYEsEc",
-                "thumb": "https://img.youtube.com/vi/dXihyhYEsEc/hqdefault.jpg"
+                "title": "HOGWARTS LEGACY - GAMEPLAY 35 MINUTOS EXPLORANDOl, LUTANDO E CRIANDO PERSONAGEM!",
+                "url": "https://www.youtube.com/watch?v=SCIzRrwOc6k",
+                "thumb": "https://img.youtube.com/vi/SCIzRrwOc6k/hqdefault.jpg"
             },
             {
-                "title": "Cities: Skylines - EPCOTAB, o futuro de Saint Laurrent",
-                "url": "https://www.youtube.com/watch?v=zybKHMgLCWU",
-                "thumb": "https://img.youtube.com/vi/zybKHMgLCWU/hqdefault.jpg"
+                "title": "Gotham Knights | Official Cinematic Launch Trailer | DC",
+                "url": "https://www.youtube.com/watch?v=wIXJAqs9dG4&ab",
+                "thumb": "https://img.youtube.com/vi/wIXJAqs9dG4/hq720.jpg"
             },
             {
-                "title": "We Were Here Together - Os Enigmas deste Mundo",
-                "url": "https://www.youtube.com/watch?v=UKgQsrHUG40",
-                "thumb": "https://img.youtube.com/vi/UKgQsrHUG40/hqdefault.jpg"
+                "title": "Batman: Arkham Knight Launch Trailer Featuring “Mercy” from Muse",
+                "url": "https://www.youtube.com/watch?v=nRpGpFDm3cw",
+                "thumb": "https://img.youtube.com/vi/nRpGpFDm3cw/hq720.jpg"
             },
             {
                 "title": "Microsoft Flight Simulator - Top Gun: Oceania - Missão RJ!",
@@ -46,88 +46,68 @@
                 "thumb": "https://img.youtube.com/vi/n3TneUb5c-w/hqdefault.jpg"
             }
         ],
-        "front-end": [
+        "músicas": [
             {
-                "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
-                "url": "https://youtube.com/watch?v=jOAU81jdi-c",
-                "thumb": "https://img.youtube.com/vi/jOAU81jdi-c/hqdefault.jpg"
+                "title": "Lana Del Rey - Ride // Tradução",
+                "url": "https://youtube.com/watch?v=q9CSOHJNVVs",
+                "thumb": "https://img.youtube.com/vi/q9CSOHJNVVs/hqdefault.jpg"
             },
             {
-                "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
-                "url": "https://www.youtube.com/watch?v=llF6vD-RljE",
-                "thumb": "https://img.youtube.com/vi/llF6vD-RljE/hqdefault.jpg"
+                "title": "Lana Del Rey - Summertime Sadness (legendado)",
+                "url": "https://www.youtube.com/watch?v=UzR6xSj5Gmw",
+                "thumb": "https://img.youtube.com/vi/UzR6xSj5Gmw/hqdefault.jpg"
             },
             {
-                "title": "A Primeira Aula de Flutter Que Todo Mundo Deveria Ter",
-                "url": "https://www.youtube.com/watch?v=J4BVaXkwmM8",
-                "thumb": "https://img.youtube.com/vi/J4BVaXkwmM8/hqdefault.jpg"
+                "title": "Tom Odell - Another Love (Official Video)",
+                "url": "https://www.youtube.com/watch?v=MwpMEbgC7DA",
+                "thumb": "https://img.youtube.com/vi/MwpMEbgC7DA/hqdefault.jpg"
             },
             {
-                "title": "O QUE SÃO FRAMEWORKS E BIBLIOTECAS? QUAIS AS DIFERENÇAS?",
-                "url": "https://www.youtube.com/watch?v=dp0zB4n3MUs",
-                "thumb": "https://img.youtube.com/vi/dp0zB4n3MUs/hqdefault.jpg"
+                "title": "The Neighbourhood - Sweater Weather (Official Video)",
+                "url": "https://www.youtube.com/watch?v=GCdwKhTtNNw",
+                "thumb": "https://img.youtube.com/vi/GCdwKhTtNNw/hqdefault.jpg"
             },
             {
-                "title": "Angular (O Vídeo que Você Precisava para Começar no Framework) // Dicionário do Programador",
-                "url": "https://www.youtube.com/watch?v=Yf0rC7dERjg",
-                "thumb": "https://img.youtube.com/vi/Yf0rC7dERjg/hqdefault.jpg"
+                "title": "Friends",
+                "url": "https://www.youtube.com/watch?v=f1ypDfvjgM",
+                "thumb": "https://img.youtube.com/vi/_f1ypDfvjgM/hqdefault.jpg"
             },
             {
-                "title": "Como Foi Programado um App Que Faz Mágica",
-                "url": "https://www.youtube.com/watch?v=I36seuWUe5s",
-                "thumb": "https://img.youtube.com/vi/I36seuWUe5s/hqdefault.jpg"
+                "title": "Kate Bush - Running up that Hill [Legendado/Tradução]",
+                "url": "https://www.youtube.com/watch?v=nLIJJjLMRaA",
+                "thumb": "https://img.youtube.com/vi/nLIJJjLMRaA/hqdefault.jpg"
             },
             {
-                "title": "O que todo iniciante em Front End deveria aprender | Como manipular arrays e objetos em JavaScript",
-                "url": "https://www.youtube.com/watch?v=yS7AcF-xRUg",
-                "thumb": "https://img.youtube.com/vi/yS7AcF-xRUg/hqdefault.jpg"
+                "title": "505",
+                "url": "https://www.youtube.com/watch?v=qU9mHegkTc4",
+                "thumb": "https://img.youtube.com/vi/qU9mHegkTc4/hqdefault.jpg"
             },
             {
-                "title": "5 Erros Históricos do CSS",
-                "url": "https://www.youtube.com/watch?v=HNjkqONzGS0",
-                "thumb": "https://img.youtube.com/vi/HNjkqONzGS0/hqdefault.jpg"
+                "title": "Don’t Blame Me",
+                "url": "https://www.youtube.com/watch?v=kRJKB291Z1g",
+                "thumb": "https://img.youtube.com/vi/kRJKB291Z1g/hqdefault.jpg"
             },
             {
-                "title": "Deploy de Front End ATUALIZADO! | O que eu uso para hospedagem de Front End",
-                "url": "https://www.youtube.com/watch?v=d9c0r-J6CdM",
-                "thumb": "https://img.youtube.com/vi/d9c0r-J6CdM/hqdefault.jpg"
+                "title": "Hozier Take me to Church",
+                "url": "https://www.youtube.com/watch?v=PVjiKRfKpPI",
+                "thumb": "https://img.youtube.com/vi/PVjiKRfKpPI/hqdefault.jpg"
             }
         ],
-        "back-end": [
+        "trailers series": [
             {
-                "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
-                "url": "https://www.youtube.com/watch?v=dvd3pNYh7So",
-                "thumb": "https://img.youtube.com/vi/dvd3pNYh7So/hqdefault.jpg"
+                "title": "Elite | Trailer oficial #1 | Netflix",
+                "url": "https://www.youtube.com/watch?v=4rTBAlB1JkQ",
+                "thumb": "https://img.youtube.com/vi/4rTBAlB1JkQ/hqdefault.jpg"
             },
             {
-                "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
-                "url": "https://www.youtube.com/watch?v=8q36rNS5yVo",
-                "thumb": "https://img.youtube.com/vi/8q36rNS5yVo/hqdefault.jpg"
+                "title": "La Casa de Papel | Trailer oficial #1 | Netflix",
+                "url": "https://www.youtube.com/watch?v=iS5xXr-GOnM",
+                "thumb": "https://img.youtube.com/vi/iS5xXr-GOnM/hqdefault.jpg"
             },
             {
-                "title": "O que é o Java? #HipstersPontoTube",
-                "url": "https://www.youtube.com/watch?v=90NcVNsKGik",
-                "thumb": "https://img.youtube.com/vi/90NcVNsKGik/hqdefault.jpg"
-            },
-            {
-                "title": "O que é Machine Learning? #HipstersPontoTube",
-                "url": "https://www.youtube.com/watch?v=Iuz_jc96bQk",
-                "thumb": "https://img.youtube.com/vi/Iuz_jc96bQk/hqdefault.jpg"
-            },
-            {
-                "title": "A MELHOR linguagem de programação com Fabio Akita | #HipstersPontoTube",
-                "url": "https://www.youtube.com/watch?v=imB0QVoNrGc",
-                "thumb": "https://img.youtube.com/vi/imB0QVoNrGc/hqdefault.jpg"
-            },
-            {
-                "title": "Top 5 libs que todo aplicativo Android deve ter com Alex Felipe | #HipstersPontoTube",
-                "url": "https://www.youtube.com/watch?v=ldRbnpy-qQs",
-                "thumb": "https://img.youtube.com/vi/ldRbnpy-qQs/hqdefault.jpg"
-            },
-            {
-                "title": "O que é o C#? #HipstersPontoTube",
-                "url": "https://www.youtube.com/watch?v=0JWMVc1CqpA",
-                "thumb": "https://img.youtube.com/vi/0JWMVc1CqpA/hqdefault.jpg"
+                "title": "Game of Thrones | Oficial Series Trailer #1",
+                "url": "https://www.youtube.com/watch?v=KPLWWIOCOOQ",
+                "thumb": "https://img.youtube.com/vi/KPLWWIOCOOQ/hqdefault.jpg"
             }
         ]
     },
